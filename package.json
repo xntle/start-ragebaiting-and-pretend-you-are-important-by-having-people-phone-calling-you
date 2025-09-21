@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@vapi-ai/server-sdk": "^0.10.2",
+    "@vapi-ai/web": "^2.3.10",
     "next": "15.5.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
